@@ -11,8 +11,8 @@ O Buba foi construído do zero para substituir esse legado, sem interromper a op
 ## Estado atual
 
 - **Em produção** desde agosto de 2026, num servidor na nuvem, acessado por rede privada.
-- **Quem usa:** um usuário ativo, da direção do Grupo CBM, na operação diária.
-- **Já roda no Buba:** vendas e recebíveis, romaneios, despesas, conciliação bancária, cheques, fretes, toras, produção e estoque, previsão de caixa. O assistente de lançamento acabou de ser publicado e ainda não foi usado.
+- **Quem usa:** dois usuários ativos no Grupo CBM, na operação diária.
+- **Já roda no Buba:** vendas e recebíveis, romaneios, despesas, conciliação bancária, cheques, fretes, toras, produção e estoque, previsão de caixa. O assistente de lançamento foi publicado em novembro de 2026, ainda sem uso em operação.
 - **Ainda convive com o legado:** o fechamento mensal segue conferido contra o legado; a folha oficial continua com o contador (o Buba gera o recibo previsto); a emissão fiscal está bloqueada até homologação.
 
 ## O que o sistema faz
@@ -65,9 +65,6 @@ O mais difícil:
 
 Ambiente local com dados fictícios.
 
-**Assistente: pré-lançamento de um comprovante, com o documento ao lado da proposta**
-![Assistente](docs/img/01-assistente-a-confirmar.png)
-
 **Conciliação: o movimento do banco já chega com a parcela de venda sugerida**
 ![Conciliação](docs/img/02-conciliacao-sugestao.png)
 
@@ -76,6 +73,9 @@ Ambiente local com dados fictícios.
 
 **Extrato bancário no modo escuro**
 ![Extrato](docs/img/04-extrato-modo-escuro.png)
+
+**Assistente: pré-lançamento de um comprovante, com o documento ao lado da proposta**
+![Assistente](docs/img/01-assistente-a-confirmar.png)
 
 ## Decisões relevantes
 
